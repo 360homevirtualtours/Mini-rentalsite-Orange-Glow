@@ -1,0 +1,181 @@
+#: locale=es
+
+## Action
+
+### URL
+LinkBehaviour_D893F259_C0C8_22E2_41DC_6D3F5DCF7ACD.source = WWW.360-home-virtualtours.es/contact/
+WebFrame_ECD9E457_B4B8_7734_41DD_1B8836B68A79.url = https://calendar.google.com/calendar/embed?src=360.home.virtualtours%40gmail.com&ctz=Europe%2FMadrid
+WebFrame_ECD9E457_B4B8_7734_41DD_1B8836B68A79_mobile.url = https://calendar.google.com/calendar/embed?src=360.home.virtualtours%40gmail.com&ctz=Europe%2FMadrid
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30953.497259423068!2d-0.6981563024044607!3d37.98921027666374!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd63aa38720ffc79%3A0xd220b907f2229dc6!2sTorrevieja%2C%20Alicante!5e1!3m2!1snl!2ses!4v1746956503941!5m2!1snl!2ses
+WebFrame_DC23881D_C0D8_6E9D_41E0_F531F1B023D2.url = //www.youtube.com/embed/SZ2BRoZVEK8?si=zjKvbt5iTl7JFRdM
+WebFrame_DC23881D_C0D8_6E9D_41E0_F531F1B023D2_mobile.url = //www.youtube.com/embed/SZ2BRoZVEK8?si=zjKvbt5iTl7JFRdM
+LinkBehaviour_EF61FF5A_B7A8_51DE_41C9_69690675926C.source = www.360-home-virtualtours.es/contact/
+LinkBehaviour_EAF79402_B498_371A_41D1_EC16184DF80F.source = www.360-home-virtualtours.es/contact/
+LinkBehaviour_D57F36CA_C059_E3E6_41E0_0A44CA02ACBE.source = www.360-home-virtualtours.es/contact/
+
+## Media
+
+### Title
+panorama_E3B29434_E946_820B_41CE_49D293CC26B0.label = Baño
+panorama_E3AD6684_E946_8E0A_41E7_F84671478ABA.label = Dormitorio 1
+panorama_E3B2AE20_E946_9E0A_41E9_0DB48AE35327.label = Dormitorio 2
+panorama_E3AD4BF0_E946_860A_41E2_9ACE17A960A4.label = Pasillo
+panorama_E3B5DEB3_E946_7E0E_41E0_88EA23A89B11.label = Pasillo
+panorama_E3B29CEC_E946_821A_41D7_BAD1F607CB8E.label = Pasillo
+panorama_E592BA0E_E942_8616_41E7_D03362355F72.label = Entrada
+panorama_E3B2835F_E946_8636_41E5_3DE33A9C2C93.label = Cocina
+album_A83F485D_B498_D340_41CC_F6B694C42FD7_6.label = Bonito-apartamento-en-alquiler-a-solo-500m-de-la-playa (11)
+album_A83F485D_B498_D340_41CC_F6B694C42FD7_7.label = Bonito-apartamento-en-alquiler-a-solo-500m-de-la-playa (12)
+album_A83F485D_B498_D340_41CC_F6B694C42FD7_8.label = Bonito-apartamento-en-alquiler-a-solo-500m-de-la-playa (13)
+album_A83F485D_B498_D340_41CC_F6B694C42FD7_9.label = Bonito-apartamento-en-alquiler-a-solo-500m-de-la-playa (14)
+album_A83F485D_B498_D340_41CC_F6B694C42FD7_10.label = Bonito-apartamento-en-alquiler-a-solo-500m-de-la-playa (15)
+album_A83F485D_B498_D340_41CC_F6B694C42FD7_11.label = Bonito-apartamento-en-alquiler-a-solo-500m-de-la-playa (16)
+album_A83F485D_B498_D340_41CC_F6B694C42FD7_12.label = Bonito-apartamento-en-alquiler-a-solo-500m-de-la-playa (17)
+album_A83F485D_B498_D340_41CC_F6B694C42FD7_13.label = Bonito-apartamento-en-alquiler-a-solo-500m-de-la-playa (18)
+album_A83F485D_B498_D340_41CC_F6B694C42FD7_14.label = Bonito-apartamento-en-alquiler-a-solo-500m-de-la-playa (21)
+album_A83F485D_B498_D340_41CC_F6B694C42FD7_15.label = Bonito-apartamento-en-alquiler-a-solo-500m-de-la-playa (22)
+album_A83F485D_B498_D340_41CC_F6B694C42FD7_16.label = Bonito-apartamento-en-alquiler-a-solo-500m-de-la-playa (24)
+album_A83F485D_B498_D340_41CC_F6B694C42FD7_17.label = Bonito-apartamento-en-alquiler-a-solo-500m-de-la-playa (25)
+album_A83F485D_B498_D340_41CC_F6B694C42FD7_0.label = Bonito-apartamento-en-alquiler-a-solo-500m-de-la-playa (3)
+album_A83F485D_B498_D340_41CC_F6B694C42FD7_1.label = Bonito-apartamento-en-alquiler-a-solo-500m-de-la-playa (4)
+album_A83F485D_B498_D340_41CC_F6B694C42FD7_2.label = Bonito-apartamento-en-alquiler-a-solo-500m-de-la-playa (6)
+album_A83F485D_B498_D340_41CC_F6B694C42FD7_3.label = Bonito-apartamento-en-alquiler-a-solo-500m-de-la-playa (7)
+album_A83F485D_B498_D340_41CC_F6B694C42FD7_4.label = Bonito-apartamento-en-alquiler-a-solo-500m-de-la-playa (8)
+album_A83F485D_B498_D340_41CC_F6B694C42FD7_5.label = Bonito-apartamento-en-alquiler-a-solo-500m-de-la-playa (9)
+panorama_E3B285E2_E946_820E_41E6_3362FFACE49D.label = Patio
+album_A83F485D_B498_D340_41CC_F6B694C42FD7.label = Álbum de fotos: Bonito apartamento en alquiler a solo 500 m de la playa (3)
+panorama_E3B2FADF_E946_8636_41D5_20E566E69365.label = Salon
+panorama_E3B241EF_E946_8216_41BD_850834359CD6.label = Terraza
+panorama_E530190A_E941_821E_41EB_A67AB06906A2.label = Torrevieja
+
+## Skin
+
+### Button
+Button_307CB5CF_6057_FBCC_4181_83F08F76DF2A.label = AMENITIES
+Button_307F95CE_6057_FBCC_41C7_B333F07C8122.label = Bar
+Button_062AF830_1140_E215_418D_D2FC11B12C47.label = CONTACTO
+Button_718FB1CD_60B6_E5E3_41D6_BCB4CCFDFBDC.label = CONTACTO
+Button_062AF830_1140_E215_418D_D2FC11B12C47_mobile.label = CONTACTO
+Button_307F85CE_6057_FBCC_41D3_51C00DB92A20.label = Chill Out
+Button_41E392A5_60B9_0A08_41BF_F6AAFA87203B.label = PLANO
+Button_41E3D2A5_60B9_0A08_41B7_737D4607570D.label = INFO
+Button_41E382A5_60B9_0A08_41D5_3FD188EFFDD4.label = UBICACION
+Button_307FD5CE_6057_FBCC_41CC_536DDA444F00.label = Lobby
+Button_3C69544A_60CD_F835_41CA_C7312C7B3578.label = Lorem Ipsum
+Button_3B1F3FAF_60CE_684C_41A0_AD93990FC16F.label = Lorem Ipsum
+Button_3CA53F6D_60CE_68CC_41D0_97234605DBC6.label = Lorem Ipsum
+Button_3D8024FE_60CD_F9CC_41D7_A101588235F6.label = Lorem Ipsum
+Button_19640B96_60CA_685C_41D0_C3EFCA646A08.label = Lorem Ipsum
+Button_3DBB65DA_60CD_FBD4_41D0_4F3B5CD606A9.label = Lorem Ipsum
+Button_027E69DF_60F5_EBCC_41D0_DA549FE430A5.label = Lorem Ipsum
+Button_3DF12A63_60CD_E8FB_41D0_83B1FB2CC56F.label = Lorem Ipsum
+Button_3CC3E3ED_60CE_FFCC_41C4_C48363B62A80.label = Lorem Ipsum
+Button_025CF94C_60F5_E8CC_41C7_4B0565CACC1A.label = Lorem Ipsum
+Button_307F05CE_6057_FBCC_41D6_C582E4F8D33B.label = Lorem Ipsum
+Button_3AEC57F6_60D6_67DD_41D0_694A036298AF.label = Lorem Ipsum
+Button_3B92E10A_60D6_7834_41D1_4B446F9FB434.label = Lorem Ipsum
+Button_3BBB129C_60D6_784C_41D3_B811E1E9E26B.label = Lorem Ipsum
+Button_3BC5B42E_60D6_784D_41A3_6479FA21A1A9.label = Lorem Ipsum
+Button_3BF9B800_60D6_6834_41B0_F6309500A250.label = Lorem Ipsum
+Button_3B197998_60D6_6855_41C7_99A6C32E2384.label = Lorem Ipsum
+Button_3B3C7B5C_60D6_68CD_41D1_FFB577C80ADA.label = Lorem Ipsum
+Button_023318B5_60F5_E85C_41C2_C8C50D7C368E.label = Lorem Ipsum
+Button_030C6B04_60CA_683C_419C_6C1F0B9EB051.label = Lorem Ipsum
+Button_3C35C0B9_60CD_F854_41CA_2F187FB8960F.label = Lorem Ipsum
+Button_3C58D2BC_60CD_F84C_41D7_7CB447A7D5BF.label = Lorem Ipsum
+Button_3C70C399_60CD_F854_41D6_488C924AD534.label = Lorem Ipsum
+Button_0210B80A_60F5_E834_41C2_262A279EA500.label = Lorem Ipsum
+Button_3B4F7E10_60CE_E854_41D3_4200495C04EB.label = Lorem Ipsum
+Button_3C85A007_60CE_F83B_41B9_7D30CC9CF6EC.label = Lorem Ipsum
+Button_3C96EF55_60CE_E8DC_4180_0D3CE8FCB751.label = Lorem Ipsum
+Button_039B0A9C_60F5_E84C_41B4_85DA5003EEFE.label = Lorem Ipsum
+Button_3B66CEDB_60CE_E9D4_41CA_2F3DAC235546.label = Lorem Ipsum
+Button_02C35607_60F5_D83C_41D1_3F7BE5AB7368.label = Lorem Ipsum
+Button_3CF0E1E2_60CE_5BF4_4136_3FE02552AC94.label = Lorem Ipsum
+Button_3CE40290_60CE_5854_41D7_2608A956C59B.label = Lorem Ipsum
+Button_3C1F1344_60CE_583C_419A_D3E4ACDEA010.label = Lorem Ipsum
+Button_3C374402_60CE_5834_41C7_743903F3EAD1.label = Lorem Ipsum
+Button_3C2E84AF_60CE_584B_41C3_79FAE620CCE9.label = Lorem Ipsum
+Button_3C45F5D2_60CE_5BD4_41C0_CC1810D45E29.label = Lorem Ipsum
+Button_03AA7C9B_60F5_E854_41D1_C29772B2A455.label = Lorem Ipsum
+Button_3B3673B8_60CF_B854_41B9_8AC7249D3A1B.label = Lorem Ipsum
+Button_3B031B65_60CE_E8FC_41CF_18C07E2E58B8.label = Lorem Ipsum
+Button_3B5DCD73_60CE_E8D4_41A0_A70D622FF822.label = Lorem Ipsum
+Button_50D923F0_6061_057B_41C9_1D2D7358B7CE.label = MENU
+Button_307E25CE_6057_FBCC_41D1_E295E5C3528A.label = Entrada
+Button_307FF5CE_6057_FBCC_41D5_405F882ECED2.label = Meeting Area 1
+Button_307FE5CE_6057_FBCC_41D1_2DA85B874499.label = Meeting Area 2
+Button_41E3F2A5_60B9_0A08_41C3_9FE9C5047659.label = PANORAMAS
+Button_41E3A2A5_60B9_0A08_41BE_55AB547304EE.label = PHOTOS
+Button_41E3B2A5_60B9_0A08_41BC_3A36B4FAF7B8.label = REALTOR
+Button_307E65CE_6057_FBCC_41D4_18C7A0A54239.label = RECEPTION
+Button_EAF6F401_B498_3716_41C6_66A84E36A09E.label = RESERVE NOW 
+Button_307F25D0_6057_FBD4_41B0_5E14C1D2FC22.label = RESTAURANTS
+Button_307F45CE_6057_FBCC_41D5_FD32EE2D5A78.label = ROOMS
+Button_307FC5CE_6057_FBCC_4190_85A741B8DCAC.pressedLabel = Reception
+Button_307FC5CE_6057_FBCC_4190_85A741B8DCAC.label = Reception
+Button_307F65CF_6057_FBCC_41BB_13FA17E2C9AB.label = SPORTS AREA
+Button_307FD5CF_6057_FBCC_41D4_AEEBAD314687.label = SWIMMING POOL
+Button_307FB5CE_6057_FBCC_41AE_9BF529C6E6AF.label = Terraza
+
+### Dropdown
+DropDown_05783A1F_3AA3_A1D2_41A6_E88282E5373B_mobile.label = AMENITIES
+DropDown_E6174973_B5E8_3138_41C7_B8D8366F2147.label = AMENITIES
+DropDown_05783A1F_3AA3_A1D2_41A6_E88282E5373B.label = AMENITIES
+DropDown_0561BA16_3AA3_A1D2_41C7_FDA0B6E9EE29_mobile.label = RECEPTION
+DropDown_E617A973_B5E8_3138_41B4_E8639604CAD5.label = RECEPTION
+DropDown_0561BA16_3AA3_A1D2_41C7_FDA0B6E9EE29.label = RECEPTION
+DropDown_05784A29_3AA3_A1FE_41B1_E2305F2F53BE.label = RESTAURANTS
+DropDown_E6170974_B5E8_3138_41C9_4C2A6B3A53E0.label = RESTAURANTS
+DropDown_05784A29_3AA3_A1FE_41B1_E2305F2F53BE_mobile.label = RESTAURANTS
+DropDown_E617B973_B5E8_3138_41C0_5D934C47948E.label = ROOMS
+DropDown_05789A1B_3AA3_A1D2_41CC_002739F0C312_mobile.label = ROOMS
+DropDown_05789A1B_3AA3_A1D2_41CC_002739F0C312.label = ROOMS
+DropDown_057BFA20_3AA3_A1EE_41A9_8EE569D894A7.label = SPORTS AREA
+DropDown_057BFA20_3AA3_A1EE_41A9_8EE569D894A7_mobile.label = SPORTS AREA
+DropDown_E6176973_B5E8_3138_41E3_3B580EC2594B.label = SPORTS AREA
+DropDown_E6177973_B5E8_3138_41D2_4DDB36B62DA0.label = SWIMMING POOL
+DropDown_057B3A27_3AA3_A1F2_41C0_6BB995D79A09_mobile.label = SWIMMING POOL
+DropDown_057B3A27_3AA3_A1F2_41C0_6BB995D79A09.label = SWIMMING POOL
+
+### Image
+Image_05314BAF_3AA1_A6F2_41CB_86A11240FA50.url = skin/Image_05314BAF_3AA1_A6F2_41CB_86A11240FA50_en.png
+Image_05314BAF_3AA1_A6F2_41CB_86A11240FA50_mobile.url = skin/Image_05314BAF_3AA1_A6F2_41CB_86A11240FA50_mobile_en.png
+Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A.url = skin/Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A_en.jpg
+Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397.url = skin/Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_en.jpg
+Image_31A28C3D_71FC_3CBD_41CA_10AE755A5CD9.url = skin/Image_31A28C3D_71FC_3CBD_41CA_10AE755A5CD9_en.png
+Image_31A28C3D_71FC_3CBD_41CA_10AE755A5CD9_mobile.url = skin/Image_31A28C3D_71FC_3CBD_41CA_10AE755A5CD9_mobile_en.png
+Image_3741EBC5_71FC_1BCD_41B6_2F562BC23982.url = skin/Image_3741EBC5_71FC_1BCD_41B6_2F562BC23982_en.png
+Image_3741EBC5_71FC_1BCD_41B6_2F562BC23982_mobile.url = skin/Image_3741EBC5_71FC_1BCD_41B6_2F562BC23982_mobile_en.png
+Image_41E322A5_60B9_0A08_41D0_4D34AC0B3F29.url = skin/Image_41E322A5_60B9_0A08_41D0_4D34AC0B3F29_en.png
+Image_718C71CD_60B6_E5E3_41B9_105D7970318F.url = skin/Image_718C71CD_60B6_E5E3_41B9_105D7970318F_en.jpg
+Image_731CA57E_60BF_A2A1_4190_01076897586C.url = skin/Image_731CA57E_60BF_A2A1_4190_01076897586C_en.jpg
+Image_E608C978_B5E8_3128_41E1_9BAEE08CD374.url = skin/Image_E608C978_B5E8_3128_41E1_9BAEE08CD374_en.png
+Image_E6173978_B5E8_3128_41E4_D155AC6F330D.url = skin/Image_E6173978_B5E8_3128_41E4_D155AC6F330D_en.png
+Image_E6178973_B5E8_3138_41C5_EFD761F5709A.url = skin/Image_E6178973_B5E8_3138_41C5_EFD761F5709A_en.png
+Image_EF6CC05E_B4E8_6F28_41D8_7D532353ECE0.url = skin/Image_EF6CC05E_B4E8_6F28_41D8_7D532353ECE0_en.jpg
+
+### Label
+Label_0E9CEE5D_36F3_E64E_419C_5A94FA5D3CA1_mobile.text = NOBRE COMPANIA
+Label_0C5F23A8_3BA0_A6FF_419F_468451E37918_mobile.text = DOLOR SIT AMET
+Label_0C5F13A8_3BA0_A6FF_41BD_E3D21CFCE151_mobile.text = LOREM
+Label_0E9CEE5D_36F3_E64E_419C_5A94FA5D3CA1.text = Apartamento de alquiler 1er piso
+Label_E617E973_B5E8_3138_41C4_137F78F8CD20.text = Apartamento de alquiler 1er piso
+
+### Multiline Text
+HTMLText_731F057E_60BF_A2A1_41C8_ACE4EB05FF54.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:4.37vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.33vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_062AD830_1140_E215_41B0_321699661E7F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.95369349503859vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:5.95vh;font-family:'Bebas Neue Bold';">_____</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.866593164277837vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.87vh;font-family:'Montserrat';"><B>APARTAMENTO DE ALQUILER</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.866593164277837vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.87vh;font-family:'Montserrat';"><B>CENTRO TORREVIEJA</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.1vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.9599999999999977vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:1.96vh;font-family:'Montserrat';"><B>ALQUILER DE EJEMPLOS DE BRILLO MODERNO</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5435501653803747vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.54vh;">Este apartamento completamente reformado se alquila a solo 500 metros de la Playa del Cura en Torrevieja. Cuenta con 2 dormitorios y 1 baño con ducha. Dispone de una cocina moderna con todos los electrodomésticos y un acogedor salón con aire acondicionado. El salón cuenta con una soleada terraza. Además, uno de los dormitorios cuenta con un patio interior ideal para actividades al aire libre.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.54vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5435501653803747vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.54vh;">Este apartamento ahora viene con una plaza de aparcamiento en una calle del apartamento.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.6538037486218302vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.65vh;"><B>DETALLES:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.574074074074074vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.57vh;">• SALÓN COMEDOR</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.574074074074074vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.57vh;">• COCINA COMPLETAMENTE EQUIPADA</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.574074074074074vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.57vh;">• 1 DORMITORIO CON CAMA DOBLE</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.574074074074074vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.57vh;">• 1 DORMITORIO CON 2 CAMAS INDIVIDUALES</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.574074074074074vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.57vh;">• DORMITORIO PRINCIPAL CON PATIO PRIVADO</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.574074074074074vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.57vh;">• 1 BAÑO CON DUCHA</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.574074074074074vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.57vh;">• 1 ASEO CON LAVABO</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.65vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.6666666666666663vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.67vh;"><B>EXTRAS:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.574074074074074vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.57vh;">• MICROONDAS</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.574074074074074vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.57vh;">• INTERNET</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.574074074074074vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.57vh;">• CANALES DE TV MUNDIALES</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.65vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.6538037486218302vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.65vh;"><B>PRECIOS:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.574074074074074vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.57vh;">• SEPTIEMBRE A ABRIL: 350 € / SEMANA</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.574074074074074vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.57vh;">• ABRIL AL 1 DE JUNIO: 400 € / SEMANA</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.574074074074074vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.57vh;">• JUNIO: 450 € / SEMANA</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.574074074074074vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.57vh;">• JULIO Y AGOSTO: 550 € / SEMANA</SPAN></SPAN></DIV></div>
+HTMLText_0B42C466_11C0_623D_4193_9FAB57A5AC33.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.610000000000005vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:7.61vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.700000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'Montserrat';"><B>CONTACTO</B></SPAN></SPAN></DIV></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.64608599779493vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:2.65vh;font-family:'Montserrat';"><B>JOHN DOE</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.984564498346196vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.98vh;font-family:'Montserrat';"><B>Nuestros datos de contacto </B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.764057331863285vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.76vh;font-family:'Montserrat';"><B>Tlf.: +11 111 111 111</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.764057331863285vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.76vh;font-family:'Montserrat';"><B>jhondoe@rental.com</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.764057331863285vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.76vh;font-family:'Montserrat';"><B>www.360-home-virtualtours.es</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.76vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_718FA1CD_60B6_E5E3_41D3_6335BDF289A6.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.722222222222221vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.72vmin;font-family:'Montserrat';"><B>APARTAMENTO DE ALQUILER</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.722222222222221vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.72vmin;font-family:'Montserrat';"><B>CENTRO TORREVIEJA</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.78vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:3.02vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.3333333333333335vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:3.33vmin;font-family:'Montserrat';"><B>ALQUILER DE EJEMPLOS DE BRILLO MODERNO</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.02vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:3.02vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.055555555555556vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.06vmin;">Este apartamento completamente reformado se alquila a solo 500 metros de la Playa del Cura en Torrevieja. Cuenta con 2 dormitorios y 1 baño con ducha. Dispone de una cocina moderna con todos los electrodomésticos y un acogedor salón con aire acondicionado. El salón cuenta con una soleada terraza. Además, uno de los dormitorios cuenta con un patio interior ideal para actividades al aire libre.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.06vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:3.02vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.055555555555556vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.06vmin;"><B>DETALLES:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.055555555555556vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.06vmin;">• SALÓN COMEDOR</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.055555555555556vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.06vmin;">• COCINA COMPLETAMENTE EQUIPADA</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.055555555555556vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.06vmin;">• 1 DORMITORIO CON CAMA DOBLE</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.055555555555556vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.06vmin;">• 1 DORMITORIO CON 2 CAMAS INDIVIDUALES</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.055555555555556vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.06vmin;">• DORMITORIO PRINCIPAL CON PATIO PRIVADO</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.055555555555556vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.06vmin;">• 1 BAÑO CON DUCHA</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.055555555555556vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.06vmin;">• 1 ASEO CON LAVABO</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.06vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:3.02vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.055555555555556vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.06vmin;"><B>EXTRAS:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.055555555555556vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.06vmin;">• MICROONDAS</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.055555555555556vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.06vmin;">• INTERNET</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.055555555555556vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.06vmin;">• CANALES DE TV MUNDIALES</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.06vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:3.02vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:3.06vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:3.02vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.055555555555556vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.06vmin;">PRECIOS:</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.055555555555556vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.06vmin;">• SEPTIEMBRE A ABRIL: 350 € / SEMANA</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.055555555555556vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.06vmin;">• ABRIL A 1 DE JUNIO: 400 € / SEMANA</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.055555555555556vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.06vmin;">• JUNIO: 450 € / SEMANA</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.055555555555556vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.06vmin;">• JULIO Y AGOSTO: 550 € / SEMANA</SPAN></SPAN></DIV></div>
+HTMLText_731CF57E_60BF_A2A1_41D7_B81B17089B91.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:6.666666666666671vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:6.67vmin;font-family:'Montserrat';"><B>JOHN DOE</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.000000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.83vmin;font-family:'Montserrat';"><B>Nuestros datos de contacto</B></SPAN><SPAN STYLE="font-size:5vmin;font-family:'Montserrat';"><B> </B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.02vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:3.02vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.444444444444444vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.44vmin;font-family:'Montserrat';"><B>Tlf.: +11 111 111 111</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.444444444444444vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.44vmin;font-family:'Montserrat';"><B>jhondoe@rental.com</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.444444444444444vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.44vmin;font-family:'Montserrat';"><B>www.360-home-virtualtours.es</B></SPAN></SPAN></DIV></div>
+HTMLText_E9052375_B478_5107_41E2_1B18D542EBD0.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:1px 1px 10px rgba(0,0,0,0.64);text-align:left;font-size:2.503128911138924vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.5vw;"><B>{{title}}</B></SPAN></SPAN></DIV></div>
+HTMLText_E9052375_B478_5107_41E2_1B18D542EBD0_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:1px 1px 5px rgba(0,0,0,0.64);text-align:left;font-size:4.166666666666667vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:4.17vw;"><B>{{title}}</B></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Apartamento-reformado- a-500m-de-la-playa-Glow
