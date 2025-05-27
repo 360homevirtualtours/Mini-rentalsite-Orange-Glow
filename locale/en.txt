@@ -3,25 +3,32 @@
 ## Action
 
 ### URL
-LinkBehaviour_D893F259_C0C8_22E2_41DC_6D3F5DCF7ACD.source = WWW.360-home-virtualtours.es/contact/
+LinkBehaviour_D893F259_C0C8_22E2_41DC_6D3F5DCF7ACD.source = https://360-home-virtualtours.es/contact/
+LinkBehaviour_D57F36CA_C059_E3E6_41E0_0A44CA02ACBE.source = https://360-home-virtualtours.es/contact/
 WebFrame_ECD9E457_B4B8_7734_41DD_1B8836B68A79.url = https://calendar.google.com/calendar/embed?src=360.home.virtualtours%40gmail.com&ctz=Europe%2FMadrid
 WebFrame_ECD9E457_B4B8_7734_41DD_1B8836B68A79_mobile.url = https://calendar.google.com/calendar/embed?src=360.home.virtualtours%40gmail.com&ctz=Europe%2FMadrid
 WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
 WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30953.497259423068!2d-0.6981563024044607!3d37.98921027666374!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd63aa38720ffc79%3A0xd220b907f2229dc6!2sTorrevieja%2C%20Alicante!5e1!3m2!1snl!2ses!4v1746956503941!5m2!1snl!2ses
 WebFrame_DC23881D_C0D8_6E9D_41E0_F531F1B023D2.url = //www.youtube.com/embed/2v_7UH_nLv4?si=2Sd32wdzPwypRY2-
 WebFrame_DC23881D_C0D8_6E9D_41E0_F531F1B023D2_mobile.url = //www.youtube.com/embed/2v_7UH_nLv4?si=2Sd32wdzPwypRY2-
-LinkBehaviour_D57F36CA_C059_E3E6_41E0_0A44CA02ACBE.source = www.360-home-virtualtours.es/contact/
 LinkBehaviour_EAF79402_B498_371A_41D1_EC16184DF80F.source = www.360-home-virtualtours.es/contact/
 LinkBehaviour_EF61FF5A_B7A8_51DE_41C9_69690675926C.source = www.360-home-virtualtours.es/contact/
 
 ## Media
 
+### Floorplan
+
+### Image
+imlevel_0A69128F_10C1_FFC0_4176_F033520CA183.url = media/map_0BDDD447_10C2_9B41_41A2_7008E5C54D34_en_0.png
+imlevel_0A69328F_10C1_FFC0_4183_7F0DC8CD9B7E.url = media/map_0BDDD447_10C2_9B41_41A2_7008E5C54D34_en_1.png
+imlevel_0A69C28F_10C1_FFC0_419B_A5B5EAF17D5C.url = media/map_0BDDD447_10C2_9B41_41A2_7008E5C54D34_en_2.png
+
 ### Title
 panorama_E3B29434_E946_820B_41CE_49D293CC26B0.label = Bathroom
 panorama_E3AD6684_E946_8E0A_41E7_F84671478ABA.label = Bedroom 1
 panorama_E3B2AE20_E946_9E0A_41E9_0DB48AE35327.label = Bedroom 2
-panorama_E3AD4BF0_E946_860A_41E2_9ACE17A960A4.label = Hall
 panorama_E3B5DEB3_E946_7E0E_41E0_88EA23A89B11.label = Hall
+panorama_E3AD4BF0_E946_860A_41E2_9ACE17A960A4.label = Hall
 panorama_E3B29CEC_E946_821A_41D7_BAD1F607CB8E.label = Hall
 panorama_E592BA0E_E942_8616_41E7_D03362355F72.label = Income
 panorama_E3B2835F_E946_8636_41E5_3DE33A9C2C93.label = Kitchen
@@ -48,6 +55,7 @@ album_A83F485D_B498_D340_41CC_F6B694C42FD7.label = Photo Album Nice-Apartment-Fo
 panorama_E3B2FADF_E946_8636_41D5_20E566E69365.label = Salon
 panorama_E3B241EF_E946_8216_41BD_850834359CD6.label = Terrace
 panorama_E530190A_E941_821E_41EB_A67AB06906A2.label = Torrevieja
+map_0BDDD447_10C2_9B41_41A2_7008E5C54D34.label = amanecer-VIgood
 
 ## Skin
 
